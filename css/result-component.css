@@ -98,4 +98,23 @@
 
 }
 
-.
+@media screen and (max-width: 800px){
+    .result-component.great{
+        width: 275px;
+
+    }
+     
+    .caution{
+        width: 275px;
+    }
+    
+    .danger{
+        width: 275px;
+    }
+    
+    .result-component-status .status{
+        font-size: 45px;
+    }
+    
+}
+

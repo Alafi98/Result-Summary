@@ -22,3 +22,16 @@ body {
     border-radius: 30px;
     box-shadow: 15px 15px 20px #a391ff71;
 }
+
+
+@media screen and (max-width: 800px){
+    .container-section {
+        width: auto;
+        height: auto;
+        flex-direction: column;
+    }
+
+
+
+}
+
